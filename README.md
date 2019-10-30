@@ -18,11 +18,12 @@ Planung des C3WOC Stand bei Chaos West am 36c3
 | 1 | Sandwitchmaker/Kontaktgrill | 2KW |
 
 **Wird noch gebraucht:**
+
 | Menge | Was | von wo? |
 | ----- | --- | ------- |
 | 1   | Aufbaukühlschrank | Dezentrale e.V. |
 | 2-4 | Gastrokühlschränkw | Carsten / Chaos West |
-  
+| 15  | Tische *(zb. 150 x 80)* | ??? |  
 
  Pläne
 ------
