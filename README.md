@@ -8,4 +8,5 @@ Planung des C3WOC Stand bei Chaos West am 36c3
 
  Pläne
 ------
-> Wir haben keinen Plan!
+``Waffelstand.svg``
+![Waffelstand @ 36c3](Waffelstand.svg "Waffelstand.svg")
