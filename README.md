@@ -2,6 +2,12 @@
 ==========================
 Planung des C3WOC Stand bei Chaos West am 36c3
 
+```txt
+Aller Gewinn geht in gleichen Teilen an folgende Gruppen:
+ + Netzpolitik.org
+ + Digitalcourage e.V.
+ + Fridays for Future Bodensee *(OG Friedrichshafen und Überlingen)*
+```
 
  Diversitätsplanung
 -----------------
@@ -11,6 +17,11 @@ Planung des C3WOC Stand bei Chaos West am 36c3
 + normale Waffeln (mit Flora)
 + eventuell vegane Waffeln? *(Rezept nicht getestet: [twitter](https://twitter.com/kurorori/status/1141722414742745091))*
 + Dönerwaffel *(dafür ist der Dönerspieß)*
+
+ Pläne
+------
+``Waffelstand.svg``
+![Waffelstand @ 36c3](Waffelstand.svg "Waffelstand.svg")
 
  Materialplanung
 ----------------
@@ -31,10 +42,6 @@ Planung des C3WOC Stand bei Chaos West am 36c3
 | 2-4 | Gastrokühlschränke | Carsten / Chaos West |
 | 10  | Tische *(zb. 150 x 80)* | ??? |
 
- Pläne
-------
-``Waffelstand.svg``
-![Waffelstand @ 36c3](Waffelstand.svg "Waffelstand.svg")
 
 
  Protokolle:
