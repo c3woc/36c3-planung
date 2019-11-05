@@ -24,10 +24,11 @@ Aller Gewinn geht in gleichen Teilen an folgende Gruppen:
  + 1 Waffeleisen weniger als am 35c3
  + verbesserte Schichtplanung dank ~~Engelsystem~~ Einhornsystem -> [einhornsystem.de](https://einhornsystem.de) ``-> comming soon``
  + verbesserte Verpflegung für "Einhörner" dank der für Einhörner exklusiven Nutzung des [Sandwitchmaker](https://www.bartscher.com/de/Produkte/Grillen/Kontaktgrills/Kontaktgrill-1800-1R/p/A150670) *(hauptsächlich für die Aufbauzeit geplant)*
- + Bessere integration bei Chaos West dank der Zusammenarbeit bei der Deko!
+ + Bessere integration bei Chaos West dank der seit dem 35c3 geknüpften Kontakten.
  + offensivere bekanntgabe was mit potentiellen Gewinn bei Waffelspenden passiert
  + Tag 1 wird es **keine Waffeln** geben, da L3D da Geburtstag hat!
    - *Zumindest nicht Tagsüber oder am Nachmittag/Abend. Kurz vor/nach Mitternacht könnte es ausnahmen geben!*
+   - Was bedeutet: Weniger Gewinneinbußen von Fairgourmet.
 
  Pläne
 ------
