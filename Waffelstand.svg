@@ -26,14 +26,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.64"
-     inkscape:cx="749.48535"
+     inkscape:cx="315.11035"
      inkscape:cy="665.32438"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer8"
      showgrid="false"
-     inkscape:window-width="2556"
-     inkscape:window-height="1392"
-     inkscape:window-x="0"
+     inkscape:window-width="1916"
+     inkscape:window-height="1152"
+     inkscape:window-x="2560"
      inkscape:window-y="22"
      inkscape:window-maximized="0"
      scale-x="1"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,8 +56,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(0,3)"
-     sodipodi:insensitive="true">
+     transform="translate(0,3)">
     <g
        id="g2392"
        transform="matrix(3.836914,0,0,3.6041503,-2609.403,1957.5628)">
@@ -3209,8 +3208,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Uebersichtsebene"
-     transform="translate(0,3)"
-     sodipodi:insensitive="true">
+     transform="translate(0,3)">
     <rect
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.43672838;stroke:#000000;stroke-width:72.08300018;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        id="rect1236"
@@ -3566,8 +3564,7 @@
      id="layer5"
      inkscape:label="Management"
      style="display:inline"
-     transform="translate(0,3)"
-     sodipodi:insensitive="true">
+     transform="translate(0,3)">
     <path
        style="opacity:1;vector-effect:none;fill:#00ff00;fill-opacity:0.17283953;stroke:none;stroke-width:0.40429789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        d="M 39.106595,243.073 H 167.30569 c 3.4554,0 6.2372,2.7819 6.2372,6.2372 v 19.723 c 0,3.4556 -2.7818,6.2374 -6.2372,6.2374 H 45.173895 c -3.4555,0 -6.2373,-2.7818 -6.2373,-6.2374 v -19.723 c 0,-3.4553 0.1699,-6.2372 0.1699,-6.2372 z"
@@ -3683,25 +3680,6 @@
        y="121.31205"
        ry="21.924454" />
     <rect
-       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.80246911;stroke:none;stroke-width:0.38203993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
-       id="rect1855"
-       width="19.907721"
-       height="17.462017"
-       x="100.11668"
-       y="239.1709"
-       ry="8.7310085" />
-    <g
-       aria-label="€"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.39911723px;line-height:1.25;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:0.08497793"
-       id="text1861"
-       transform="matrix(3.6041502,0,0,3.6041502,-125.5601,-643.61409)">
-      <path
-         d="m 65.787196,248.06371 q -0.225723,0.15269 -0.489619,0.15269 -0.355181,0 -0.595841,-0.22074 -0.239001,-0.2224 -0.312029,-0.6224 h -0.175931 l 0.06141,-0.1975 h 0.09461 q -0.005,-0.088 0,-0.17594 h -0.142737 l 0.04481,-0.1975 h 0.12116 q 0.07801,-0.39668 0.313688,-0.61908 0.237341,-0.22406 0.577584,-0.22406 0.234021,0 0.502897,0.14273 v 0.32697 q -0.268876,-0.17095 -0.492938,-0.17095 -0.476342,0 -0.597501,0.54439 h 0.941064 l -0.04813,0.1975 h -0.921148 q -0.0033,0.0282 -0.0033,0.0946 l 0.0033,0.0813 h 0.868036 l -0.04813,0.1975 h -0.795008 q 0.111202,0.53775 0.624057,0.53775 0.222403,0 0.469702,-0.17759 z"
-         style="fill:#ffcc00;stroke:#000000;stroke-width:0.08497793"
-         id="path1863"
-         inkscape:connector-curvature="0" />
-    </g>
-    <rect
        style="opacity:1;vector-effect:none;fill:#aaccff;fill-opacity:0.34876547;stroke:none;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        id="rect2127"
        width="36.189743"
@@ -3710,8 +3688,7 @@
        y="163.6748"
        ry="4.1341147" />
     <g
-       aria-label="&quot;nur für
-Premiumengel&quot;"
+       aria-label="&quot;nur für Premiumengel&quot;"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000d4;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        id="text2131"
        transform="matrix(0.73195817,0,0,0.73195817,-7.6354507,39.787141)">
@@ -3817,10 +3794,7 @@ Premiumengel&quot;"
          inkscape:connector-curvature="0" />
     </g>
     <g
-       aria-label="gemütlicher Bereich
-zum Waffeln essen
-mit Tischen + Stühlen
-(Vorschlag)"
+       aria-label="gemütlicher Bereich zum Waffeln essen mit Tischen + Stühlen (Vorschlag)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.2014432px;line-height:1.25;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#5500d4;fill-opacity:1;stroke:none;stroke-width:0.18003607"
        id="text2373">
       <path
@@ -4135,8 +4109,7 @@ mit Tischen + Stühlen
      id="layer3"
      inkscape:label="Tische"
      style="display:inline"
-     transform="translate(0,3)"
-     sodipodi:insensitive="true">
+     transform="translate(0,3)">
     <path
        sodipodi:nodetypes="cccccccccccsccsccsccccsccccccscccscccscccsccccccsccccccccccccccccccccsccccccsccscscccccccccccccsccsccsccccscccccccccccccccccccscccccccccccccccccscccccscccccsccccccccccscccccscccccccccccscsccccccsccccccsccccccscccccscccccccccscccscccccscccccscccccccccscccccccccccccccccccccscccccsccsccscccccccccccsccccscccccccccsccccccsccccccscccccccccccccscccccccccccccsccccsccccscccccccscccccccsccccccscccccscccccsccccccc"
        inkscape:connector-curvature="0"
@@ -5072,8 +5045,7 @@ mit Tischen + Stühlen
      id="layer6"
      inkscape:label="Storage"
      transform="translate(0,3)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        id="g2159"
        transform="matrix(3.479596,0,0,3.479596,-112.4013,-602.1403)">
@@ -5106,98 +5078,98 @@ mit Tischen + Stühlen
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon9"
-         points="3485,5450 3485,5619 0,3950 0,3810 "
+         points="0,3950 0,3810 3485,5450 3485,5619 "
          class="fil1" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon17"
-         points="2573,5021 2573,4848 7611,2741 7611,2916 "
+         points="7611,2741 7611,2916 2573,5021 2573,4848 "
          class="fil1" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon19"
-         points="1883,4696 1883,4526 6956,2565 6956,2696 "
+         points="6956,2565 6956,2696 1883,4696 1883,4526 "
          class="fil1" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon23"
-         points="1076,4316 1076,4150 6140,2346 6140,2477 "
+         points="6140,2346 6140,2477 1076,4316 1076,4150 "
          class="fil1" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon27"
-         points="478,4035 478,3872 5537,2184 5537,2315 "
+         points="5537,2184 5537,2315 478,4035 478,3872 "
          class="fil1" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon41"
-         points="1076,4316 1248,4254 1248,4397 "
+         points="1248,4397 1076,4316 1248,4254 "
          class="fil1" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon45"
-         points="649,4115 478,4035 649,3977 "
+         points="649,3977 649,4115 478,4035 "
          class="fil1" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon47"
-         points="1883,4696 2075,4620 2075,4786 "
+         points="2075,4786 1883,4696 2075,4620 "
          class="fil1" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon51"
-         points="3485,5450 3485,5273 3679,5273 3679,5450 "
+         points="3679,5273 3679,5450 3485,5450 3485,5273 "
          class="fil1" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon53"
-         points="3485,5619 3485,5450 3679,5450 3679,5619 "
+         points="3679,5450 3679,5619 3485,5619 3485,5450 "
          class="fil1" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon61"
-         points="3679,5450 3679,5273 8467,3043 8467,3166 "
+         points="8467,3043 8467,3166 3679,5450 3679,5273 "
          class="fil1" />
       <g
          style="fill:#aaeeff"
          id="g2240">
         <polygon
            class="fil2"
-           points="292,4597 292,4090 897,4380 "
+           points="897,4380 292,4597 292,4090 "
            id="polygon31"
            style="clip-rule:evenodd;fill:#aaeeff;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
            transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)" />
         <polygon
            class="fil2"
-           points="1876,5417 1876,4848 2499,5147 "
+           points="2499,5147 1876,5417 1876,4848 "
            id="polygon33"
            style="clip-rule:evenodd;fill:#aaeeff;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
            transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)" />
         <polygon
            class="fil2"
-           points="3679,6250 3679,5619 4352,5292 4352,5900 "
+           points="4352,5292 4352,5900 3679,6250 3679,5619 "
            id="polygon65"
            style="clip-rule:evenodd;fill:#aaeeff;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
            transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)" />
         <polygon
            class="fil2"
-           points="6140,4973 6140,4423 6737,4133 6737,4664 "
+           points="6737,4133 6737,4664 6140,4973 6140,4423 "
            id="polygon67"
            style="clip-rule:evenodd;fill:#aaeeff;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
            transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)" />
         <polygon
            class="fil2"
-           points="8097,3958 8097,3472 8467,3292 8467,3767 "
+           points="8467,3292 8467,3767 8097,3958 8097,3472 "
            id="polygon69"
            style="clip-rule:evenodd;fill:#aaeeff;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
            transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)" />
@@ -5212,50 +5184,50 @@ mit Tischen + Stühlen
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon73"
-         points="2792,4950 2792,5124 2573,5021 3108,4797 3130,4806 "
+         points="2573,5021 3108,4797 3130,4806 2792,4950 2792,5124 "
          class="fil1" />
       <g
          style="fill:#5fd3bc"
          id="g2263">
         <polygon
            class="fil3"
-           points="0,4608 0,4446 292,4597 292,4761 "
+           points="292,4597 292,4761 0,4608 0,4446 "
            id="polygon35"
            style="clip-rule:evenodd;fill:#5fd3bc;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
            transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)" />
         <polygon
            class="fil3"
-           points="1219,5246 1219,5077 1876,5417 1876,5589 "
+           points="1876,5417 1876,5589 1219,5246 1219,5077 "
            id="polygon37"
            style="clip-rule:evenodd;fill:#5fd3bc;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
            transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)" />
         <polygon
            class="fil3"
-           points="3008,6181 3008,6003 3485,6250 3485,6430 "
+           points="3485,6250 3485,6430 3008,6181 3008,6003 "
            id="polygon39"
            style="clip-rule:evenodd;fill:#5fd3bc;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
            transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)" />
         <polygon
            class="fil3"
-           points="292,4761 292,4597 897,4380 1073,4464 "
+           points="897,4380 1073,4464 292,4761 292,4597 "
            id="polygon43"
            style="clip-rule:evenodd;fill:#5fd3bc;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
            transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)" />
         <polygon
            class="fil3"
-           points="1876,5589 1876,5417 2499,5147 2672,5229 "
+           points="2499,5147 2672,5229 1876,5589 1876,5417 "
            id="polygon49"
            style="clip-rule:evenodd;fill:#5fd3bc;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
            transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)" />
         <polygon
            class="fil3"
-           points="3485,6430 3485,6250 3679,6250 3679,6430 "
+           points="3679,6250 3679,6430 3485,6430 3485,6250 "
            id="polygon57"
            style="clip-rule:evenodd;fill:#5fd3bc;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
            transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)" />
         <polygon
            class="fil3"
-           points="3679,6430 3679,6250 8467,3766 8467,3901 "
+           points="8467,3766 8467,3901 3679,6430 3679,6250 "
            id="polygon63"
            style="clip-rule:evenodd;fill:#5fd3bc;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
            transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)" />
@@ -5270,43 +5242,43 @@ mit Tischen + Stühlen
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon77"
-         points="478,4035 478,3872 0,3649 0,3810 "
+         points="0,3649 0,3810 478,4035 478,3872 "
          class="fil1" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon79"
-         points="1076,4316 1076,4150 649,3951 649,4115 "
+         points="649,3951 649,4115 1076,4316 1076,4150 "
          class="fil1" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon81"
-         points="1883,4696 1883,4526 1248,4231 1248,4397 "
+         points="1248,4231 1248,4397 1883,4696 1883,4526 "
          class="fil1" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon83"
-         points="2573,5021 2573,4848 2075,4616 2075,4786 "
+         points="2075,4616 2075,4786 2573,5021 2573,4848 "
          class="fil1" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon85"
-         points="3485,5450 3485,5273 2792,4950 2792,5124 "
+         points="2792,4950 2792,5124 3485,5450 3485,5273 "
          class="fil1" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon87"
-         points="4352,5129 4352,5292 3679,5619 3679,5450 "
+         points="3679,5619 3679,5450 4352,5129 4352,5292 "
          class="fil1" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon89"
-         points="8097,3342 8097,3958 8097,3472 7933,3421 "
+         points="8097,3472 7933,3421 8097,3342 8097,3958 "
          class="fil1" />
       <g
          id="g2253">
@@ -5317,19 +5289,19 @@ mit Tischen + Stühlen
            inkscape:connector-curvature="0" />
         <polygon
            class="fil0"
-           points="0,3950 292,4090 292,4597 0,4446 "
+           points="292,4597 0,4446 0,3950 292,4090 "
            id="polygon11"
            style="clip-rule:evenodd;fill:#d5f6ff;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
            transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)" />
         <polygon
            class="fil0"
-           points="1219,5077 1219,4534 1876,4848 1876,5417 "
+           points="1876,4848 1876,5417 1219,5077 1219,4534 "
            id="polygon13"
            style="clip-rule:evenodd;fill:#d5f6ff;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
            transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)" />
         <polygon
            class="fil0"
-           points="3008,5391 3485,5619 3485,6250 3008,6003 "
+           points="3485,6250 3008,6003 3008,5391 3485,5619 "
            id="polygon15"
            style="clip-rule:evenodd;fill:#d5f6ff;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
            transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)" />
@@ -5350,7 +5322,7 @@ mit Tischen + Stühlen
            inkscape:connector-curvature="0" />
         <polygon
            class="fil0"
-           points="3485,6250 3485,5619 3679,5619 3679,6250 "
+           points="3679,5619 3679,6250 3485,6250 3485,5619 "
            id="polygon55"
            style="clip-rule:evenodd;fill:#d5f6ff;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
            transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)" />
@@ -5361,13 +5333,13 @@ mit Tischen + Stühlen
            inkscape:connector-curvature="0" />
         <polygon
            class="fil0"
-           points="7933,3421 8097,3472 8097,3958 7582,3778 7583,3588 "
+           points="8097,3958 7582,3778 7583,3588 7933,3421 8097,3472 "
            id="polygon91"
            style="clip-rule:evenodd;fill:#d5f6ff;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
            transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)" />
         <polygon
            class="fil0"
-           points="5971,4357 6140,4423 6140,4973 5597,4737 5597,4535 "
+           points="6140,4973 5597,4737 5597,4535 5971,4357 6140,4423 "
            id="polygon93"
            style="clip-rule:evenodd;fill:#d5f6ff;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
            transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)" />
@@ -5376,7 +5348,7 @@ mit Tischen + Stühlen
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon95"
-         points="6140,4276 6140,4973 6140,4423 5971,4357 "
+         points="6140,4423 5971,4357 6140,4276 6140,4973 "
          class="fil1" />
     </g>
     <g
@@ -5454,8 +5426,7 @@ mit Tischen + Stühlen
      id="layer4"
      inkscape:label="Waffeleisen"
      style="display:inline"
-     transform="translate(0,3)"
-     sodipodi:insensitive="true">
+     transform="translate(0,3)">
     <g
        id="g1539"
        transform="matrix(3.6041503,0,0,3.6041503,-69.753502,-624.0836)">
@@ -5637,8 +5608,7 @@ mit Tischen + Stühlen
      id="layer7"
      inkscape:label="Legende"
      transform="translate(0,3)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.93055558;stroke:#000000;stroke-width:1.95860004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        id="rect2362"
@@ -5959,67 +5929,67 @@ mit Tischen + Stühlen
        y="203.66119" />
     <polygon
        class="fil1"
-       points="0,3810 3485,5450 3485,5619 0,3950 "
+       points="3485,5619 0,3950 0,3810 3485,5450 "
        id="polygon9-9"
        style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        transform="matrix(0.00271982,-1.7260599e-4,1.7260599e-4,0.00271982,365.15301,202.8631)" />
     <polygon
        class="fil1"
-       points="7611,2916 2573,5021 2573,4848 7611,2741 "
+       points="2573,4848 7611,2741 7611,2916 2573,5021 "
        id="polygon17-4"
        style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        transform="matrix(0.00271982,-1.7260599e-4,1.7260599e-4,0.00271982,365.15301,202.8631)" />
     <polygon
        class="fil1"
-       points="6956,2696 1883,4696 1883,4526 6956,2565 "
+       points="1883,4526 6956,2565 6956,2696 1883,4696 "
        id="polygon19-9"
        style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        transform="matrix(0.00271982,-1.7260599e-4,1.7260599e-4,0.00271982,365.15301,202.8631)" />
     <polygon
        class="fil1"
-       points="6140,2477 1076,4316 1076,4150 6140,2346 "
+       points="1076,4150 6140,2346 6140,2477 1076,4316 "
        id="polygon23-0"
        style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        transform="matrix(0.00271982,-1.7260599e-4,1.7260599e-4,0.00271982,365.15301,202.8631)" />
     <polygon
        class="fil1"
-       points="5537,2315 478,4035 478,3872 5537,2184 "
+       points="478,3872 5537,2184 5537,2315 478,4035 "
        id="polygon27-9"
        style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        transform="matrix(0.00271982,-1.7260599e-4,1.7260599e-4,0.00271982,365.15301,202.8631)" />
     <polygon
        class="fil1"
-       points="1248,4397 1076,4316 1248,4254 "
+       points="1248,4254 1248,4397 1076,4316 "
        id="polygon41-1"
        style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        transform="matrix(0.00271982,-1.7260599e-4,1.7260599e-4,0.00271982,365.15301,202.8631)" />
     <polygon
        class="fil1"
-       points="649,3977 649,4115 478,4035 "
+       points="478,4035 649,3977 649,4115 "
        id="polygon45-7"
        style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        transform="matrix(0.00271982,-1.7260599e-4,1.7260599e-4,0.00271982,365.15301,202.8631)" />
     <polygon
        class="fil1"
-       points="2075,4786 1883,4696 2075,4620 "
+       points="2075,4620 2075,4786 1883,4696 "
        id="polygon47-7"
        style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        transform="matrix(0.00271982,-1.7260599e-4,1.7260599e-4,0.00271982,365.15301,202.8631)" />
     <polygon
        class="fil1"
-       points="3679,5450 3485,5450 3485,5273 3679,5273 "
+       points="3485,5273 3679,5273 3679,5450 3485,5450 "
        id="polygon51-1"
        style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        transform="matrix(0.00271982,-1.7260599e-4,1.7260599e-4,0.00271982,365.15301,202.8631)" />
     <polygon
        class="fil1"
-       points="3679,5619 3485,5619 3485,5450 3679,5450 "
+       points="3485,5450 3679,5450 3679,5619 3485,5619 "
        id="polygon53-1"
        style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        transform="matrix(0.00271982,-1.7260599e-4,1.7260599e-4,0.00271982,365.15301,202.8631)" />
     <polygon
        class="fil1"
-       points="8467,3166 3679,5450 3679,5273 8467,3043 "
+       points="3679,5273 8467,3043 8467,3166 3679,5450 "
        id="polygon61-5"
        style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        transform="matrix(0.00271982,-1.7260599e-4,1.7260599e-4,0.00271982,365.15301,202.8631)" />
@@ -6031,31 +6001,31 @@ mit Tischen + Stühlen
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:#aaeeff;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon31-7"
-         points="897,4380 292,4597 292,4090 "
+         points="292,4090 897,4380 292,4597 "
          class="fil2" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:#aaeeff;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon33-7"
-         points="2499,5147 1876,5417 1876,4848 "
+         points="1876,4848 2499,5147 1876,5417 "
          class="fil2" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:#aaeeff;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon65-6"
-         points="4352,5900 3679,6250 3679,5619 4352,5292 "
+         points="3679,5619 4352,5292 4352,5900 3679,6250 "
          class="fil2" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:#aaeeff;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon67-7"
-         points="6737,4664 6140,4973 6140,4423 6737,4133 "
+         points="6140,4423 6737,4133 6737,4664 6140,4973 "
          class="fil2" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:#aaeeff;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon69-3"
-         points="8467,3767 8097,3958 8097,3472 8467,3292 "
+         points="8097,3472 8467,3292 8467,3767 8097,3958 "
          class="fil2" />
     </g>
     <path
@@ -6066,7 +6036,7 @@ mit Tischen + Stühlen
        style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke-width:0.00272533;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
     <polygon
        class="fil1"
-       points="2792,5124 2573,5021 3108,4797 3130,4806 2792,4950 "
+       points="3108,4797 3130,4806 2792,4950 2792,5124 2573,5021 "
        id="polygon73-5"
        style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        transform="matrix(0.00271982,-1.7260599e-4,1.7260599e-4,0.00271982,365.15301,202.8631)" />
@@ -6078,43 +6048,43 @@ mit Tischen + Stühlen
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:#5fd3bc;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon35-3"
-         points="292,4761 0,4608 0,4446 292,4597 "
+         points="0,4446 292,4597 292,4761 0,4608 "
          class="fil3" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:#5fd3bc;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon37-9"
-         points="1876,5589 1219,5246 1219,5077 1876,5417 "
+         points="1219,5077 1876,5417 1876,5589 1219,5246 "
          class="fil3" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:#5fd3bc;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon39-4"
-         points="3485,6430 3008,6181 3008,6003 3485,6250 "
+         points="3008,6003 3485,6250 3485,6430 3008,6181 "
          class="fil3" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:#5fd3bc;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon43-8"
-         points="1073,4464 292,4761 292,4597 897,4380 "
+         points="292,4597 897,4380 1073,4464 292,4761 "
          class="fil3" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:#5fd3bc;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon49-1"
-         points="2672,5229 1876,5589 1876,5417 2499,5147 "
+         points="1876,5417 2499,5147 2672,5229 1876,5589 "
          class="fil3" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:#5fd3bc;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon57-2"
-         points="3679,6430 3485,6430 3485,6250 3679,6250 "
+         points="3485,6250 3679,6250 3679,6430 3485,6430 "
          class="fil3" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:#5fd3bc;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon63-9"
-         points="8467,3901 3679,6430 3679,6250 8467,3766 "
+         points="3679,6250 8467,3766 8467,3901 3679,6430 "
          class="fil3" />
       <path
          style="clip-rule:evenodd;fill:#5fd3bc;fill-rule:evenodd;stroke-width:0.00036902;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
@@ -6125,43 +6095,43 @@ mit Tischen + Stühlen
     </g>
     <polygon
        class="fil1"
-       points="0,3810 478,4035 478,3872 0,3649 "
+       points="478,3872 0,3649 0,3810 478,4035 "
        id="polygon77-9"
        style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        transform="matrix(0.00271982,-1.7260599e-4,1.7260599e-4,0.00271982,365.15301,202.8631)" />
     <polygon
        class="fil1"
-       points="649,4115 1076,4316 1076,4150 649,3951 "
+       points="1076,4150 649,3951 649,4115 1076,4316 "
        id="polygon79-0"
        style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        transform="matrix(0.00271982,-1.7260599e-4,1.7260599e-4,0.00271982,365.15301,202.8631)" />
     <polygon
        class="fil1"
-       points="1248,4397 1883,4696 1883,4526 1248,4231 "
+       points="1883,4526 1248,4231 1248,4397 1883,4696 "
        id="polygon81-8"
        style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        transform="matrix(0.00271982,-1.7260599e-4,1.7260599e-4,0.00271982,365.15301,202.8631)" />
     <polygon
        class="fil1"
-       points="2075,4786 2573,5021 2573,4848 2075,4616 "
+       points="2573,4848 2075,4616 2075,4786 2573,5021 "
        id="polygon83-8"
        style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        transform="matrix(0.00271982,-1.7260599e-4,1.7260599e-4,0.00271982,365.15301,202.8631)" />
     <polygon
        class="fil1"
-       points="2792,5124 3485,5450 3485,5273 2792,4950 "
+       points="3485,5273 2792,4950 2792,5124 3485,5450 "
        id="polygon85-5"
        style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        transform="matrix(0.00271982,-1.7260599e-4,1.7260599e-4,0.00271982,365.15301,202.8631)" />
     <polygon
        class="fil1"
-       points="3679,5450 4352,5129 4352,5292 3679,5619 "
+       points="4352,5292 3679,5619 3679,5450 4352,5129 "
        id="polygon87-0"
        style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        transform="matrix(0.00271982,-1.7260599e-4,1.7260599e-4,0.00271982,365.15301,202.8631)" />
     <polygon
        class="fil1"
-       points="7933,3421 8097,3342 8097,3958 8097,3472 "
+       points="8097,3958 8097,3472 7933,3421 8097,3342 "
        id="polygon89-9"
        style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        transform="matrix(0.00271982,-1.7260599e-4,1.7260599e-4,0.00271982,365.15301,202.8631)" />
@@ -6177,19 +6147,19 @@ mit Tischen + Stühlen
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:#d5f6ff;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon11-8"
-         points="0,4446 0,3950 292,4090 292,4597 "
+         points="292,4090 292,4597 0,4446 0,3950 "
          class="fil0" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:#d5f6ff;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon13-5"
-         points="1876,5417 1219,5077 1219,4534 1876,4848 "
+         points="1219,4534 1876,4848 1876,5417 1219,5077 "
          class="fil0" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:#d5f6ff;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon15-6"
-         points="3008,6003 3008,5391 3485,5619 3485,6250 "
+         points="3485,5619 3485,6250 3008,6003 3008,5391 "
          class="fil0" />
       <path
          inkscape:connector-curvature="0"
@@ -6210,7 +6180,7 @@ mit Tischen + Stühlen
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:#d5f6ff;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon55-9"
-         points="3679,6250 3485,6250 3485,5619 3679,5619 "
+         points="3485,5619 3679,5619 3679,6250 3485,6250 "
          class="fil0" />
       <path
          inkscape:connector-curvature="0"
@@ -6221,18 +6191,18 @@ mit Tischen + Stühlen
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:#d5f6ff;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon91-4"
-         points="8097,3472 8097,3958 7582,3778 7583,3588 7933,3421 "
+         points="7582,3778 7583,3588 7933,3421 8097,3472 8097,3958 "
          class="fil0" />
       <polygon
          transform="matrix(3.6901718e-4,0,0,3.6901718e-4,81.530377,213.8895)"
          style="clip-rule:evenodd;fill:#d5f6ff;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="polygon93-8"
-         points="6140,4423 6140,4973 5597,4737 5597,4535 5971,4357 "
+         points="5597,4737 5597,4535 5971,4357 6140,4423 6140,4973 "
          class="fil0" />
     </g>
     <polygon
        class="fil1"
-       points="5971,4357 6140,4276 6140,4973 6140,4423 "
+       points="6140,4973 6140,4423 5971,4357 6140,4276 "
        id="polygon95-1"
        style="clip-rule:evenodd;fill:none;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        transform="matrix(0.00271982,-1.7260599e-4,1.7260599e-4,0.00271982,365.15301,202.8631)" />
@@ -6411,26 +6381,5 @@ mit Tischen + Stühlen
   <g
      inkscape:groupmode="layer"
      id="layer8"
-     inkscape:label="oberes_management"
-     sodipodi:insensitive="true">
-    <rect
-       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.80246911;stroke:none;stroke-width:0.38203993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
-       id="rect1855-8"
-       width="19.907721"
-       height="17.462017"
-       x="100.11668"
-       y="242.1709"
-       ry="8.7310085" />
-    <g
-       aria-label="€"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.39911723px;line-height:1.25;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:0.08497793"
-       id="text1861-9"
-       transform="matrix(3.6041502,0,0,3.6041502,-125.5601,-640.61409)">
-      <path
-         d="m 65.787196,248.06371 q -0.225723,0.15269 -0.489619,0.15269 -0.355181,0 -0.595841,-0.22074 -0.239001,-0.2224 -0.312029,-0.6224 h -0.175931 l 0.06141,-0.1975 h 0.09461 q -0.005,-0.088 0,-0.17594 h -0.142737 l 0.04481,-0.1975 h 0.12116 q 0.07801,-0.39668 0.313688,-0.61908 0.237341,-0.22406 0.577584,-0.22406 0.234021,0 0.502897,0.14273 v 0.32697 q -0.268876,-0.17095 -0.492938,-0.17095 -0.476342,0 -0.597501,0.54439 h 0.941064 l -0.04813,0.1975 h -0.921148 q -0.0033,0.0282 -0.0033,0.0946 l 0.0033,0.0813 h 0.868036 l -0.04813,0.1975 h -0.795008 q 0.111202,0.53775 0.624057,0.53775 0.222403,0 0.469702,-0.17759 z"
-         style="fill:#ffcc00;stroke:#000000;stroke-width:0.08497793"
-         id="path1863-2"
-         inkscape:connector-curvature="0" />
-    </g>
-  </g>
+     inkscape:label="oberes_management" />
 </svg>
