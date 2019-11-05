@@ -22,8 +22,8 @@ Aller Gewinn geht in gleichen Teilen an folgende Gruppen:
  Unterschied zum 35c3
 --------------------------------
  + 1 Waffeleisen weniger als am 35c3
- + verbesserte Schichtplanung dank ~~Engelsystem~~ Einhornsystem -> [einhornsystem.de](https://einhornsystem.de) ``comming soon``
- + verbesserte Verpflegung für "Einhörner" dank der für Einhörner exklusiven Nutzung des [Sandwitchmaker](https://www.bartscher.com/de/Produkte/Grillen/Kontaktgrills/Kontaktgrill-1800-1R/p/A150670) *(hauptsächlich für Aufbauzeit)*
+ + verbesserte Schichtplanung dank ~~Engelsystem~~ Einhornsystem -> [einhornsystem.de](https://einhornsystem.de) ``-> comming soon``
+ + verbesserte Verpflegung für "Einhörner" dank der für Einhörner exklusiven Nutzung des [Sandwitchmaker](https://www.bartscher.com/de/Produkte/Grillen/Kontaktgrills/Kontaktgrill-1800-1R/p/A150670) *(hauptsächlich für die Aufbauzeit geplant)*
  + Bessere integration bei Chaos West dank der Zusammenarbeit bei der Deko!
  + offensivere bekanntgabe was mit potentiellen Gewinn bei Waffelspenden passiert
  + Tag 1 wird es **keine Waffeln** geben, da L3D da Geburtstag hat!
@@ -47,7 +47,7 @@ Aller Gewinn geht in gleichen Teilen an folgende Gruppen:
 
 
 Was wird sonst noch Benötigt:
- * 10  Tische *(zb. 150 x 80, sollten das Gewicht von min. 2 Waffeleisen aushalten)*
+ * ca. 15  Tische *(zb. 150 x 80, sollten das Gewicht von min. 2 Waffeleisen aushalten)*
  * *Flausch*
  * *Liebe*
  * *tolleranz*
