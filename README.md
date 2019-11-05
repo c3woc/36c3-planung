@@ -22,7 +22,7 @@ Planung des C3WOC Stand bei Chaos West am 36c3
 
 | Menge | Was | Strom |
 | ----- | --- | ----- |
-| 5 *(evtl 7 oder 11)* | Waffeleisen | 2.2KW/Stk)
+| 5 *(evtl 7 ~~oder 11~~)* | Waffeleisen | 2.2KW/Stk)
 | 1 | Dönergrill | 3KW |
 | 1 | Sandwitchmaker/Kontaktgrill | 2KW |
 
@@ -32,7 +32,7 @@ Planung des C3WOC Stand bei Chaos West am 36c3
 | ----- | --- | ------- |
 | 1   | Aufbaukühlschrank | Dezentrale e.V. |
 | 2-4 | Gastrokühlschränkw | Carsten / Chaos West |
-| 15  | Tische *(zb. 150 x 80)* | ??? |
+| 10  | Tische *(zb. 150 x 80)* | ??? |
 
  Pläne
 ------
