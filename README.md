@@ -6,6 +6,15 @@ Planung des C3WOC Stand bei Chaos West am 36c3
 --------------
  + [Chaos West Kickoff](https://md.hasi.it/7HKVKnMbQICGNpvuZv4sYA?view#Was-brauchen-diese-%E2%80%9CWaffeln%E2%80%9D) ``2019-10-27``
 
+ Diversitätsplanung
+-----------------
+
++ laktosefreie Waffeln
++ Maismehlwaffeln
++ normale Waffeln (mit Flora)
++ vegane Waffeln? *(Rezept nicht getestet: [twitter](https://twitter.com/kurorori/status/1141722414742745091))*
+
+
  Materialplanung
 ----------------
 
