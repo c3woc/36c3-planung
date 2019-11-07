@@ -4,9 +4,9 @@ Planung des C3WOC Stand bei Chaos West am 36c3
 
 ```txt
 Aller Gewinn geht in gleichen Teilen an folgende Gruppen:
- + Netzpolitik.org
- + Digitalcourage e.V.
- + Fridays for Future Bodensee *(OG Friedrichshafen und Überlingen)*
+ + Netzpolitik.org -> https://netzpolitik.org/
+ + Digitalcourage e.V. -> https://digitalcourage.org/
+ + Fridays for Future Bodensee *(OG Friedrichshafen und Überlingen)* -> https://klima-streik.de/
 ```
 
  Diversitätsplanung
