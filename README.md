@@ -49,11 +49,11 @@ Aller Gewinn geht in gleichen Teilen an folgende Gruppen:
 
 ### Zusammenfassung Strom:
 Es werden für die Waffelgeräte ca. 7 individuelle Schuko anschlüsse mit eigener Phase/Sicherung/was auch immer gebraucht.
-Diese werden meistens mit 2.2KW (max 3KW) belastet.
+Diese werden meistens mit 2.2KW (max 3KW) belastet. (siehe Tabelle)
 
 Leistung der Kühlmöglichkeiten und Licht ist unbekannt...
 
-In die Assembly Anmeldung wurden 26KW Steombedarf geschrieben...
+In die Assembly Anmeldung wurden 26KW Strombedarf reingeschrieben... Das sollte hoffentlich mehr als genug sein!
 
 ### Was wird sonst noch Benötigt:
  * ca. 15  Tische *(zb. 150 x 80, sollten das Gewicht von min. 2 Waffeleisen aushalten)*
