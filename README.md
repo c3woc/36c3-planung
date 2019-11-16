@@ -55,14 +55,14 @@ Leistung der Kühlmöglichkeiten und Licht ist unbekannt...
 
 In die Assembly Anmeldung wurden 26KW Steombedarf geschrieben...
 
-Was wird sonst noch Benötigt:
+### Was wird sonst noch Benötigt:
  * ca. 15  Tische *(zb. 150 x 80, sollten das Gewicht von min. 2 Waffeleisen aushalten)*
  * *Flausch*
  * *Liebe*
  * *tolleranz*
  * *harmonie*
 
-Ungeplante Elemente:
+### Ungeplante Elemente:
  + Wasser
 
 ```
