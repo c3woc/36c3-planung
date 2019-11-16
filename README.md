@@ -45,7 +45,7 @@ Aller Gewinn geht in gleichen Teilen an folgende Gruppen:
 | 1   | Aufbaukühlschrank   | ``?``            | Dezentrale e.V. |
 | 2-4 | Gastrokühlschränke | ``?``             | Carsten / Chaos West |
 | etwas | Licht/Deko | ``?``                   | Carsten / Chaos West |
-
+| 1 | eventuell Spülmachine??? | ``?``         | Carsten / Cahos West |
 
 ### Zusammenfassung Strom:
 Es werden für die Waffelgeräte ca. 7 individuelle Schuko anschlüsse mit eigener Phase/Sicherung/was auch immer gebraucht.
