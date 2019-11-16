@@ -47,6 +47,14 @@ Aller Gewinn geht in gleichen Teilen an folgende Gruppen:
 | etwas | Licht/Deko | ``?``                   | Carsten / Chaos West |
 
 
+### Zusammenfassung Strom:
+Es werden für die Waffelgeräte ca. 7 individuelle Schuko anschlüsse mit eigener Phase/Sicherung/was auch immer gebraucht.
+Diese werden meistens mit 2.2KW (max 3KW) belastet.
+
+Leistung der Kühlmöglichkeiten und Licht ist unbekannt...
+
+In die Assembly Anmeldung wurden 26KW Steombedarf geschrieben...
+
 Was wird sonst noch Benötigt:
  * ca. 15  Tische *(zb. 150 x 80, sollten das Gewicht von min. 2 Waffeleisen aushalten)*
  * *Flausch*
@@ -54,6 +62,15 @@ Was wird sonst noch Benötigt:
  * *tolleranz*
  * *harmonie*
 
+Ungeplante Elemente:
+ + Wasser
+
+```
+Das Assemblyteam besorgt uns jetzt einen Wasseranschluss...
+Wie der aussieht, was wir noch brauchen etc. ist unklar.
+C.Epp wollte mal versuchen ob er eine Spüle und Spülmachine auftreiben kann... Ob das erfolg hat... ist unklar...
+HILFE!!!
+```
 
  Protokolle:
 --------------
