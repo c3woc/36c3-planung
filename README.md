@@ -56,7 +56,7 @@ Leistung der Kühlmöglichkeiten und Licht ist unbekannt...
 In die Assembly Anmeldung wurden 26KW Strombedarf reingeschrieben... Das sollte hoffentlich mehr als genug sein!
 
 ### Was wird sonst noch Benötigt:
- * ca. 15  Tische *(zb. 150 x 80, sollten das Gewicht von min. 2 Waffeleisen aushalten)*
+ * ca. 17  Tische *(zb. 150 x 80, sollten das Gewicht von min. 2 Waffeleisen aushalten)*
  * *Flausch*
  * *Liebe*
  * *tolleranz*
@@ -64,6 +64,8 @@ In die Assembly Anmeldung wurden 26KW Strombedarf reingeschrieben... Das sollte 
 
 ### Ungeplante Elemente:
  + Wasser
+   + Für wasser ggf. extra tische, Licht, Spüle... ????
+   + Carsten wollte da dinge bringen... Kein Feedback bisher!
 
 ```
 Das Assemblyteam besorgt uns jetzt einen Wasseranschluss...
