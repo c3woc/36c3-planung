@@ -15,8 +15,7 @@ Aller Gewinn geht in gleichen Teilen an folgende Gruppen:
 + laktosefreie Waffeln
 + Maismehlwaffeln
 + normale Waffeln (mit Flora)
-+ eventuell vegane Waffeln? *(Rezept nicht getestet: [twitter](https://twitter.com/kurorori/status/1141722414742745091))*
-+ Dönerwaffel *(dafür ist der Dönerspieß)*
++ eventuell vegane Waffeln?
 
 
  Unterschied zum 35c3
@@ -66,6 +65,7 @@ In die Assembly Anmeldung wurden 26KW Strombedarf reingeschrieben... Das sollte 
  + Wasser
    + Für wasser ggf. extra tische, Licht, Spüle... ????
    + Carsten wollte da dinge bringen... Kein Feedback bisher!
+   + Zutaten
 
 ```
 Das Assemblyteam besorgt uns jetzt einen Wasseranschluss...
