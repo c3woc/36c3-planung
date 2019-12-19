@@ -40,7 +40,7 @@ Aller Gewinn geht in gleichen Teilen an folgende Gruppen:
 | Menge | Was | Strom  pro Gerät| von wem |
 | ----- | --- | --------------- | ------- |
 | 5 | Waffeleisen | ``2.2KW``   | L3D     | 
-| 1 | Dönergrill  | ``3KW``     | [Toolbox](https://toolbox-bodensee.de) |
+| 1 | Dönergrill *(vegetarisches Gerät)*  | ``3KW``     | [Toolbox](https://toolbox-bodensee.de) |
 | 1 | Sandwitchmaker/Kontaktgrill | ``2.2 KW`` | L3D |
 | 1   | Aufbaukühlschrank   | ``?``            | Dezentrale e.V. |
 | 2-4 | Gastrokühlschränke | ``?``             | Carsten / Chaos West |
