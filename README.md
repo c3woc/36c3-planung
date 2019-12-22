@@ -9,6 +9,13 @@ Aller Gewinn geht in gleichen Teilen an folgende Gruppen:
  + Fridays for Future Bodensee *(OG Friedrichshafen und Überlingen)* -> https://klima-streik.de/
 ```
 
+ Generalkonzeptgedanken:
+-----------------
++ DO IT YOURSELF
++ SPAß AM GERÄT
++ COMMUNITY
+
+
  Diversitätsplanung
 -----------------
 > Was wird dieses C3WOC dort alles für Waffeln machen?
