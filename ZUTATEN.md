@@ -27,7 +27,10 @@ Gute Frage!
 + Tag 0 -> 10 Eimer?
 + Tag 1 -> Nichts
 + Tag 2 -> 20 Eimer???
++ Tag 3 -> 20 Eimer???
++ Tag 4 -> 10 Eimer???
 
+-> INSGESAMT 60 Eimer, davon normaler und veganer/glutenfreier/laktosefreier teig
 
  Wie lange hält ein Eimer?
 -------------
@@ -45,3 +48,6 @@ Theoretisch könnte man ab Mittags (12 Uhr) bis Nachts (12Uhr++) Waffeln backen.
 
 Es wird vermutlich um Mitternacht noch kein Feierabend geben, so das die Zutaten schon eher leer werden...
 
+Es wären also bis zu 25-30 Eimer pro Tag denkbar... aber zuviel... Also in etwa 20 Eimer?
+
+HILFE
