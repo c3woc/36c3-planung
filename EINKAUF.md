@@ -1,4 +1,4 @@
- EINKAUF - MEtro
+ EINKAUF - METRO
 ----------------
 
 Siehe Zutaten.md für Details... <- 60 Eimer Waffelteig!
