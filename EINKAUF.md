@@ -24,12 +24,14 @@ Aufteilung:
 | <!-- 6 *2 --> 12kg | glutenfreies Mehl | [694979](https://produkte.metro.de/shop/pv/BTY-X81625/0032/0021/Sch%C3%A4r-Mehl-feink%C3%B6rnig-1-kg-Faltschachtel) | 3,42 |
 | <!-- (4+4)*1.25 --> 10kg | vegane Butter -> ALSAN   | ??? | ??? |
 | <!-- 4 + 4 --> 12L | Mandeldrink | [???](https://produkte.metro.de/shop/pv/BTY-X291285/0032/0021/Alpro-Mandeldrink-for-Professionals-vegan-1-l-Packung)  | 2.84 |
-| <!--  --> | | |
+| <!--  --> | | | |
 | 1x | Alufolie | ? | ? |
 | 1x | Klarsichtfolie | ? | ? |
 | 2x | Gitter | ? | ? |
 | 1x | Spendenbox? | ? | ? |
-| | |
-
-
+| | | | |
+| | | | |
+| <!-- --> | Apfelmus | | |
+| 12x | Nutella | | |
+| 3x  | Marmelade | | |
 
